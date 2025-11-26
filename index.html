@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synthesizer</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        #synthesizer {
+            background-color: white;
+        }
+        .key {
+            cursor: pointer;
+            transition: fill 0.1s;
+        }
+        .white-key {
+            fill: #FFFFFF;
+            stroke: #000000;
+            stroke-width: 2;
+        }
+        .white-key:hover {
+            fill: #F0F0F0;
+        }
+        .white-key.pressed {
+            fill: #D0D0D0;
+        }
+        .black-key {
+            fill: #000000;
+            stroke: #000000;
+            stroke-width: 1;
+        }
+        .black-key:hover {
+            fill: #333333;
+        }
+        .black-key.pressed {
+            fill: #666666;
+        }
+    </style>
+</head>
+<body>
+    <svg id="synthesizer" width="1200" height="300" viewBox="0 0 1200 300">
+        <!-- White keys (24 keys) -->
+        <rect id="key1" class="key white-key" x="0" y="50" width="50" height="200" rx="3"/>
+        <rect id="key2" class="key white-key" x="50" y="50" width="50" height="200" rx="3"/>
+        <rect id="key3" class="key white-key" x="100" y="50" width="50" height="200" rx="3"/>
+        <rect id="key4" class="key white-key" x="150" y="50" width="50" height="200" rx="3"/>
+        <rect id="key5" class="key white-key" x="200" y="50" width="50" height="200" rx="3"/>
+        <rect id="key6" class="key white-key" x="250" y="50" width="50" height="200" rx="3"/>
+        <rect id="key7" class="key white-key" x="300" y="50" width="50" height="200" rx="3"/>
+        <rect id="key8" class="key white-key" x="350" y="50" width="50" height="200" rx="3"/>
+        <rect id="key9" class="key white-key" x="400" y="50" width="50" height="200" rx="3"/>
+        <rect id="key10" class="key white-key" x="450" y="50" width="50" height="200" rx="3"/>
+        <rect id="key11" class="key white-key" x="500" y="50" width="50" height="200" rx="3"/>
+        <rect id="key12" class="key white-key" x="550" y="50" width="50" height="200" rx="3"/>
+        <rect id="key13" class="key white-key" x="600" y="50" width="50" height="200" rx="3"/>
+        <rect id="key14" class="key white-key" x="650" y="50" width="50" height="200" rx="3"/>
+        <rect id="key15" class="key white-key" x="700" y="50" width="50" height="200" rx="3"/>
+        <rect id="key16" class="key white-key" x="750" y="50" width="50" height="200" rx="3"/>
+        <rect id="key17" class="key white-key" x="800" y="50" width="50" height="200" rx="3"/>
+        <rect id="key18" class="key white-key" x="850" y="50" width="50" height="200" rx="3"/>
+        <rect id="key19" class="key white-key" x="900" y="50" width="50" height="200" rx="3"/>
+        <rect id="key20" class="key white-key" x="950" y="50" width="50" height="200" rx="3"/>
+        <rect id="key21" class="key white-key" x="1000" y="50" width="50" height="200" rx="3"/>
+        <rect id="key22" class="key white-key" x="1050" y="50" width="50" height="200" rx="3"/>
+        <rect id="key23" class="key white-key" x="1100" y="50" width="50" height="200" rx="3"/>
+        <rect id="key24" class="key white-key" x="1150" y="50" width="50" height="200" rx="3"/>
+
+        <!-- Black keys (16 keys) - positioned between white keys -->
+        <rect id="key25" class="key black-key" x="35" y="50" width="30" height="120" rx="2"/>
+        <rect id="key26" class="key black-key" x="85" y="50" width="30" height="120" rx="2"/>
+        <rect id="key27" class="key black-key" x="135" y="50" width="30" height="120" rx="2"/>
+        <rect id="key28" class="key black-key" x="185" y="50" width="30" height="120" rx="2"/>
+        <rect id="key29" class="key black-key" x="235" y="50" width="30" height="120" rx="2"/>
+        <rect id="key30" class="key black-key" x="285" y="50" width="30" height="120" rx="2"/>
+        <rect id="key31" class="key black-key" x="335" y="50" width="30" height="120" rx="2"/>
+        <rect id="key32" class="key black-key" x="385" y="50" width="30" height="120" rx="2"/>
+        <rect id="key33" class="key black-key" x="435" y="50" width="30" height="120" rx="2"/>
+        <rect id="key34" class="key black-key" x="485" y="50" width="30" height="120" rx="2"/>
+        <rect id="key35" class="key black-key" x="535" y="50" width="30" height="120" rx="2"/>
+        <rect id="key36" class="key black-key" x="585" y="50" width="30" height="120" rx="2"/>
+        <rect id="key37" class="key black-key" x="635" y="50" width="30" height="120" rx="2"/>
+        <rect id="key38" class="key black-key" x="685" y="50" width="30" height="120" rx="2"/>
+        <rect id="key39" class="key black-key" x="735" y="50" width="30" height="120" rx="2"/>
+        <rect id="key40" class="key black-key" x="785" y="50" width="30" height="120" rx="2"/>
+    </svg>
+
+    <script>
+        // Get all keys
+        const keys = document.querySelectorAll('.key');
+
+        // Add click event to each key
+        keys.forEach(key => {
+            // Mouse events
+            key.addEventListener('mousedown', () => {
+                key.classList.add('pressed');
+                console.log(`${key.id} pressed`);
+            });
+
+            key.addEventListener('mouseup', () => {
+                key.classList.remove('pressed');
+            });
+
+            key.addEventListener('mouseleave', () => {
+                key.classList.remove('pressed');
+            });
+
+            // Touch events for mobile
+            key.addEventListener('touchstart', (e) => {
+                e.preventDefault();
+                key.classList.add('pressed');
+                console.log(`${key.id} pressed`);
+            });
+
+            key.addEventListener('touchend', (e) => {
+                e.preventDefault();
+                key.classList.remove('pressed');
+            });
+        });
+    </script>
+</body>
+</html>
