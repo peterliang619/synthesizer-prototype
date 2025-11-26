@@ -44,6 +44,39 @@
     <div id="svg-container"></div>
 
     <script>
+        // WebSocket connection
+        const ws = new WebSocket(`ws://${window.location.hostname}:${window.location.port}`);
+
+        ws.onopen = () => {
+            console.log('Connected to server');
+            ws.send(JSON.stringify({ type: 'register', role: 'display' }));
+        };
+
+        ws.onmessage = (event) => {
+            const data = JSON.parse(event.data);
+
+            if (data.type === 'keypress') {
+                const key = document.getElementById(data.keyId);
+                if (key) {
+                    key.classList.add('key-pressed');
+                    console.log(`${data.keyId} pressed from controller`);
+                }
+            } else if (data.type === 'keyrelease') {
+                const key = document.getElementById(data.keyId);
+                if (key) {
+                    key.classList.remove('key-pressed');
+                }
+            }
+        };
+
+        ws.onerror = (error) => {
+            console.error('WebSocket error:', error);
+        };
+
+        ws.onclose = () => {
+            console.log('Disconnected from server');
+        };
+
         // Load the SVG file
         fetch('synthesizer svg')
             .then(response => response.text())
@@ -53,44 +86,15 @@
 
                 // Wait a bit for SVG to be fully loaded in DOM
                 setTimeout(() => {
-                    // Add interactivity to keys 1-40
+                    // Add interactive class to keys 1-40
                     for (let i = 1; i <= 40; i++) {
                         const key = document.getElementById(`key${i}`);
-
                         if (key) {
-                            // Make cursor pointer and add transition class
-                            key.style.cursor = 'pointer';
                             key.classList.add('key-interactive');
-
-                            // Mouse events
-                            key.addEventListener('mousedown', () => {
-                                key.classList.add('key-pressed');
-                                console.log(`key${i} pressed`);
-                            });
-
-                            key.addEventListener('mouseup', () => {
-                                key.classList.remove('key-pressed');
-                            });
-
-                            key.addEventListener('mouseleave', () => {
-                                key.classList.remove('key-pressed');
-                            });
-
-                            // Touch events for mobile
-                            key.addEventListener('touchstart', (e) => {
-                                e.preventDefault();
-                                key.classList.add('key-pressed');
-                                console.log(`key${i} pressed`);
-                            });
-
-                            key.addEventListener('touchend', (e) => {
-                                e.preventDefault();
-                                key.classList.remove('key-pressed');
-                            });
                         }
                     }
 
-                    console.log('Synthesizer loaded with 40 pressable keys (key1-key40)');
+                    console.log('Synthesizer display loaded - waiting for controller input');
                 }, 100);
             })
             .catch(error => {
