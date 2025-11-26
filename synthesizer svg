@@ -1,9 +1,9 @@
 <svg width="1745" height="1060" viewBox="0 0 1745 1060" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="1745" height="1060" fill="#F5F5F5"/>
+<rect width="1745" height="1060" fill="#FFFFFF"/>
 <rect x="267" y="315" width="839" height="430" rx="20" fill="#565355"/>
 <rect x="267" y="315" width="839" height="430" rx="20" fill="url(#pattern0_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
 <rect x="283" y="331" width="729" height="398" rx="6" fill="black"/>
-<g clip-path="url(#clip0_11_1182)">
+<g id="key1" clip-path="url(#clip0_11_1182)">
 <rect x="483" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="483" y="597" width="64" height="130" rx="4" fill="url(#paint0_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="483" y="597" width="64" height="130" fill="#8D8583"/>
@@ -18,7 +18,7 @@
 </g>
 </g>
 <rect x="483.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint5_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip1_11_1182)">
+<g id="key2" clip-path="url(#clip1_11_1182)">
 <rect x="813" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="813" y="597" width="64" height="130" rx="4" fill="url(#paint6_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="813" y="597" width="64" height="130" fill="#8D8583"/>
@@ -33,7 +33,7 @@
 </g>
 </g>
 <rect x="813.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint11_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip2_11_1182)">
+<g id="key3" clip-path="url(#clip2_11_1182)">
 <rect x="549" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="549" y="597" width="64" height="130" rx="4" fill="url(#paint12_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="549" y="597" width="64" height="130" fill="#8D8583"/>
@@ -48,7 +48,7 @@
 </g>
 </g>
 <rect x="549.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint17_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip3_11_1182)">
+<g id="key4" clip-path="url(#clip3_11_1182)">
 <rect x="879" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="879" y="597" width="64" height="130" rx="4" fill="url(#paint18_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="879" y="597" width="64" height="130" fill="#8D8583"/>
@@ -63,7 +63,7 @@
 </g>
 </g>
 <rect x="879.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint23_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip4_11_1182)">
+<g id="key5" clip-path="url(#clip4_11_1182)">
 <rect x="615" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="615" y="597" width="64" height="130" rx="4" fill="url(#paint24_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="615" y="597" width="64" height="130" fill="#8D8583"/>
@@ -78,7 +78,7 @@
 </g>
 </g>
 <rect x="615.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint29_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip5_11_1182)">
+<g id="key6" clip-path="url(#clip5_11_1182)">
 <rect x="945" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="945" y="597" width="64" height="130" rx="4" fill="url(#paint30_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="945" y="597" width="64" height="130" fill="#8D8583"/>
@@ -93,7 +93,7 @@
 </g>
 </g>
 <rect x="945.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint35_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip6_11_1182)">
+<g id="key7" clip-path="url(#clip6_11_1182)">
 <rect x="681" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="681" y="597" width="64" height="130" rx="4" fill="url(#paint36_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="681" y="597" width="64" height="130" fill="#8D8583"/>
@@ -108,7 +108,7 @@
 </g>
 </g>
 <rect x="681.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint41_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip7_11_1182)">
+<g id="key8" clip-path="url(#clip7_11_1182)">
 <rect x="747" y="597" width="64" height="130" rx="4" fill="#7D7473"/>
 <rect x="747" y="597" width="64" height="130" rx="4" fill="url(#paint42_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="747" y="597" width="64" height="130" fill="#8D8583"/>
@@ -123,7 +123,7 @@
 </g>
 </g>
 <rect x="747.25" y="597.25" width="63.5" height="129.5" rx="3.75" stroke="url(#paint47_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip8_11_1182)">
+<g id="key9" clip-path="url(#clip8_11_1182)">
 <rect x="483" y="531" width="97" height="64" rx="4" fill="#7D7473"/>
 <rect x="483" y="531" width="97" height="64" rx="4" fill="url(#paint48_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="483" y="531" width="97" height="64" fill="#8D8583"/>
@@ -137,7 +137,7 @@
 </g>
 </g>
 <rect x="483.25" y="531.25" width="96.5" height="63.5" rx="3.75" stroke="url(#paint52_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip9_11_1182)">
+<g id="key10" clip-path="url(#clip9_11_1182)">
 <rect x="747" y="531" width="97" height="64" rx="4" fill="#7D7473"/>
 <rect x="747" y="531" width="97" height="64" rx="4" fill="url(#paint53_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="747" y="531" width="97" height="64" fill="#8D8583"/>
@@ -151,7 +151,7 @@
 </g>
 </g>
 <rect x="747.25" y="531.25" width="96.5" height="63.5" rx="3.75" stroke="url(#paint57_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip10_11_1182)">
+<g id="key11" clip-path="url(#clip10_11_1182)">
 <rect x="648" y="531" width="97" height="64" rx="4" fill="#7D7473"/>
 <rect x="648" y="531" width="97" height="64" rx="4" fill="url(#paint58_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="648" y="531" width="97" height="64" fill="#8D8583"/>
@@ -165,7 +165,7 @@
 </g>
 </g>
 <rect x="648.25" y="531.25" width="96.5" height="63.5" rx="3.75" stroke="url(#paint62_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip11_11_1182)">
+<g id="key12" clip-path="url(#clip11_11_1182)">
 <rect x="912.114" y="530" width="97" height="64" rx="4" fill="#7D7473"/>
 <rect x="912.114" y="530" width="97" height="64" rx="4" fill="url(#paint63_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="912.114" y="530" width="97" height="64" fill="#8D8583"/>
@@ -179,7 +179,7 @@
 </g>
 </g>
 <rect x="912.364" y="530.25" width="96.5" height="63.5" rx="3.75" stroke="url(#paint67_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip12_11_1182)">
+<g id="key13" clip-path="url(#clip12_11_1182)">
 <rect x="582" y="531" width="64" height="64" rx="4" fill="#7D7473"/>
 <rect x="582" y="531" width="64" height="64" rx="4" fill="url(#paint68_radial_11_1182)" fill-opacity="0.2"/>
 <g filter="url(#filter12_ddddd_11_1182)">
@@ -189,7 +189,7 @@
 </g>
 </g>
 <rect x="582.25" y="531.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint70_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip13_11_1182)">
+<g id="key14" clip-path="url(#clip13_11_1182)">
 <rect x="846.114" y="531" width="64" height="64" rx="4" fill="#7D7473"/>
 <rect x="846.114" y="531" width="64" height="64" rx="4" fill="url(#paint71_radial_11_1182)" fill-opacity="0.2"/>
 <g filter="url(#filter13_ddddd_11_1182)">
@@ -199,7 +199,7 @@
 </g>
 </g>
 <rect x="846.364" y="531.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint73_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip14_11_1182)">
+<g id="key15" clip-path="url(#clip14_11_1182)">
 <rect x="285" y="663" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="285" y="663" width="64" height="64" rx="4" fill="url(#paint74_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="285" y="663" width="64" height="64" rx="4" fill="url(#pattern21_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -213,7 +213,7 @@
 </g>
 <rect x="285.25" y="663.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint78_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M310 695L324 695M310 695L316.5 688M310 695L316.5 702" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip15_11_1182)">
+<g id="key16" clip-path="url(#clip15_11_1182)">
 <rect x="285" y="531" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="285" y="531" width="64" height="64" rx="4" fill="url(#paint79_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="285" y="531" width="64" height="64" rx="4" fill="url(#pattern23_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -227,7 +227,7 @@
 </g>
 <rect x="285.25" y="531.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint83_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M317 555V567M317 555L324 561.5M317 555L310 561.5M310 571H324" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip16_11_1182)">
+<g id="key17" clip-path="url(#clip16_11_1182)">
 <rect x="351" y="663" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="351" y="663" width="64" height="64" rx="4" fill="url(#paint84_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="351" y="663" width="64" height="64" rx="4" fill="url(#pattern25_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -241,7 +241,7 @@
 </g>
 <rect x="351.25" y="663.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint88_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M390 695L376 695M390 695L383.5 702M390 695L383.5 688" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip17_11_1182)">
+<g id="key18" clip-path="url(#clip17_11_1182)">
 <rect x="351" y="531" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="351" y="531" width="64" height="64" rx="4" fill="url(#paint89_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="351" y="531" width="64" height="64" rx="4" fill="url(#pattern27_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -255,7 +255,7 @@
 </g>
 <rect x="351.25" y="531.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint93_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M383 567L383 555M383 567L376 560.5M383 567L390 560.5M376 571H390" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip18_11_1182)">
+<g id="key19" clip-path="url(#clip18_11_1182)">
 <rect x="417" y="531" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="417" y="531" width="64" height="64" rx="4" fill="url(#paint94_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="417" y="531" width="64" height="64" rx="4" fill="url(#pattern29_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -269,7 +269,7 @@
 </g>
 <rect x="417.25" y="531.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint98_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M443.907 561.999C442.293 561.95 441 560.626 441 559C441 557.343 442.343 556 444 556C445.657 556 447 557.343 447 559C447 560.075 446.434 561.019 445.584 561.548L448.161 562.493L459.333 558.529C459.593 558.436 459.879 558.573 459.971 558.833C460.064 559.093 459.927 559.379 459.667 559.471L449.631 563.032L459.172 566.531C459.431 566.626 459.565 566.913 459.469 567.172C459.374 567.431 459.087 567.565 458.828 567.469L448.155 563.556L445.601 564.462C446.442 564.994 447 565.932 447 567C447 568.657 445.657 570 444 570C442.343 570 441 568.657 441 567C441 565.373 442.295 564.049 443.91 564.001L446.685 563.017L443.907 561.999ZM443.99 561C442.89 560.994 442 560.101 442 559C442 557.895 442.895 557 444 557C445.105 557 446 557.895 446 559C446 560.101 445.11 560.994 444.01 561C444.007 561 444.003 561 444 561C443.997 561 443.993 561 443.99 561ZM444 569C442.895 569 442 568.105 442 567C442 565.899 442.89 565.006 443.99 565C443.997 565 444.003 565 444.01 565C445.11 565.006 446 565.899 446 567C446 568.105 445.105 569 444 569Z" fill="black"/>
-<g clip-path="url(#clip19_11_1182)">
+<g id="key20" clip-path="url(#clip19_11_1182)">
 <rect x="417" y="597" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="417" y="597" width="64" height="64" rx="4" fill="url(#paint99_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="417" y="597" width="64" height="64" rx="4" fill="url(#pattern31_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -283,7 +283,7 @@
 </g>
 <rect x="417.25" y="597.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint103_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M444 634V624H454V634H444Z" fill="black" stroke="black" stroke-linejoin="round"/>
-<g clip-path="url(#clip20_11_1182)">
+<g id="key21" clip-path="url(#clip20_11_1182)">
 <rect x="417" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="417" y="465" width="64" height="64" rx="4" fill="url(#paint104_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="417" y="465" width="64" height="64" rx="4" fill="url(#pattern33_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -297,7 +297,7 @@
 </g>
 <rect x="417.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint108_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M455 492.5C457.761 492.5 460 494.739 460 497.5C460 500.018 458.139 502.099 455.718 502.447C455.652 502.48 455.579 502.5 455.5 502.5H442.5C442.421 502.5 442.348 502.48 442.281 502.447C439.86 502.099 438 500.017 438 497.5C438 494.739 440.239 492.5 443 492.5C445.761 492.5 448 494.739 448 497.5C448 499.136 447.214 500.588 446 501.5H452C450.786 500.588 450 499.136 450 497.5C450 494.739 452.239 492.5 455 492.5ZM443 493.5C440.791 493.5 439 495.291 439 497.5C439 499.709 440.791 501.5 443 501.5C445.209 501.5 447 499.709 447 497.5C447 495.291 445.209 493.5 443 493.5ZM455 493.5C452.791 493.5 451 495.291 451 497.5C451 499.709 452.791 501.5 455 501.5C457.209 501.5 459 499.709 459 497.5C459 495.291 457.209 493.5 455 493.5Z" fill="black"/>
-<g clip-path="url(#clip21_11_1182)">
+<g id="key22" clip-path="url(#clip21_11_1182)">
 <rect x="945" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="945" y="465" width="64" height="64" rx="4" fill="url(#paint109_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="945" y="465" width="64" height="64" rx="4" fill="url(#pattern35_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -313,7 +313,7 @@
 <path d="M978.5 500V502V504L975.5 502L978.5 500Z" fill="black"/>
 <path d="M973 502C971.667 502 969 502.6 969 505C969 507.4 971.667 508.333 973 508.5H981C982 508.333 984 507.4 984 505C984 502.6 982 502 981 502H978.5M978.5 502V500L975.5 502L978.5 504V502Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M972 487.814C972 486.876 972.463 485 974.314 485C976.166 485 978 485 978.686 485C979.457 485 981 485.563 981 487.814C981 490.065 979.457 490.372 978.686 490.372M978.686 490.372H974.829M978.686 490.372C979.457 490.372 981 490.884 981 492.93C981 495.488 979.457 496 978.686 496C978.069 496 975.514 496 974.314 496C973.543 496 972 495.642 972 494.209V492.93" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip22_11_1182)">
+<g id="key23" clip-path="url(#clip22_11_1182)">
 <rect x="879" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="879" y="465" width="64" height="64" rx="4" fill="url(#paint114_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="879" y="465" width="64" height="64" rx="4" fill="url(#pattern37_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -330,7 +330,7 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M903 500.5C901.879 500.5 901.111 500.879 900.628 501.416C900.16 501.936 900 502.56 900 503V506.944C899.906 507.394 899.956 508.031 900.403 508.569C900.878 509.141 901.714 509.5 903 509.5C904.294 509.5 905.176 509.139 905.74 508.617C906.296 508.102 906.5 507.467 906.5 507V503C906.5 502.959 906.495 502.918 906.485 502.879C906.274 502.034 905.273 500.5 903 500.5ZM901 503C901 502.773 901.09 502.397 901.372 502.084C901.639 501.788 902.121 501.5 903 501.5C904.667 501.5 905.345 502.554 905.5 503.067V507C905.5 507.199 905.404 507.565 905.06 507.883C904.724 508.195 904.106 508.5 903 508.5C901.886 508.5 901.389 508.192 901.172 507.931C900.95 507.662 900.931 507.336 900.985 507.121C900.995 507.082 901 507.041 901 507V503Z" fill="black"/>
 <path d="M909 501C909 500.724 908.776 500.5 908.5 500.5C908.224 500.5 908 500.724 908 501V507C908 507.44 908.16 508.064 908.628 508.584C909.111 509.121 909.879 509.5 911 509.5C913.133 509.5 914.5 508.4 914.5 507V501C914.5 500.724 914.276 500.5 914 500.5C913.724 500.5 913.5 500.724 913.5 501V507C913.5 507.6 912.867 508.5 911 508.5C910.121 508.5 909.639 508.212 909.372 507.916C909.09 507.603 909 507.227 909 507V501Z" fill="black"/>
 <path d="M916 500.5C915.724 500.5 915.5 500.724 915.5 501C915.5 501.276 915.724 501.5 916 501.5H918.5V509C918.5 509.276 918.724 509.5 919 509.5C919.276 509.5 919.5 509.276 919.5 509V501.5H922C922.276 501.5 922.5 501.276 922.5 501C922.5 500.724 922.276 500.5 922 500.5H916Z" fill="black"/>
-<g clip-path="url(#clip23_11_1182)">
+<g id="key24" clip-path="url(#clip23_11_1182)">
 <rect x="813" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="813" y="465" width="64" height="64" rx="4" fill="url(#paint119_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="813" y="465" width="64" height="64" rx="4" fill="url(#pattern39_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -344,7 +344,7 @@
 </g>
 <rect x="813.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint123_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M845 485V496M841.5 501V509M844 509V501L849.5 509V501" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip24_11_1182)">
+<g id="key25" clip-path="url(#clip24_11_1182)">
 <rect x="747" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="747" y="465" width="64" height="64" rx="4" fill="url(#paint124_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="747" y="465" width="64" height="64" rx="4" fill="url(#pattern41_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -358,7 +358,7 @@
 </g>
 <rect x="747.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint128_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M784.5 508V486H783L769 499.5V500.5H788.5" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip25_11_1182)">
+<g id="key26" clip-path="url(#clip25_11_1182)">
 <rect x="681" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="681" y="465" width="64" height="64" rx="4" fill="url(#paint129_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="681" y="465" width="64" height="64" rx="4" fill="url(#pattern43_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -372,7 +372,7 @@
 </g>
 <rect x="681.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint133_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M704 491.5C704 489.667 704.9 486 708.5 486C712.1 486 715.667 486 717 486C718.5 486 721.5 487.1 721.5 491.5C721.5 495.9 718.5 496.5 717 496.5M717 496.5H709.5M717 496.5C718.5 496.5 721.5 497.5 721.5 501.5C721.5 506.5 718.5 507.5 717 507.5C715.8 507.5 710.833 507.5 708.5 507.5C707 507.5 704 506.8 704 504V501.5" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip26_11_1182)">
+<g id="key27" clip-path="url(#clip26_11_1182)">
 <rect x="615" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="615" y="465" width="64" height="64" rx="4" fill="url(#paint134_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="615" y="465" width="64" height="64" rx="4" fill="url(#pattern45_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -386,7 +386,7 @@
 </g>
 <rect x="615.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint138_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M638 492.5C638 490.333 639.1 486 643.5 486C647.9 486 649.667 486 650 486C651.833 486.167 655.5 487.4 655.5 491C655.5 494.6 654.5 496.167 654 496.5L638 506.5V507.5H655.5" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip27_11_1182)">
+<g id="key28" clip-path="url(#clip27_11_1182)">
 <rect x="549" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="549" y="465" width="64" height="64" rx="4" fill="url(#paint139_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="549" y="465" width="64" height="64" rx="4" fill="url(#pattern47_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -400,7 +400,7 @@
 </g>
 <rect x="549.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint143_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M581 486V508" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip28_11_1182)">
+<g id="key29" clip-path="url(#clip28_11_1182)">
 <rect x="945.114" y="399" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="945.114" y="399" width="64" height="64" rx="4" fill="url(#paint144_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="945.114" y="399" width="64" height="64" rx="4" fill="url(#pattern49_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -415,7 +415,7 @@
 <rect x="945.364" y="399.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint148_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M977.117 430.75H976.6C973.355 430.75 970.725 428.12 970.725 424.875C970.725 421.63 973.356 419 976.6 419H977.117L977.419 419.008C980.523 419.165 982.992 421.732 982.992 424.875L982.984 425.178C982.832 428.182 980.423 430.59 977.419 430.742L977.117 430.75ZM976.6 429.75H977.117C979.809 429.75 981.992 427.567 981.992 424.875C981.992 422.183 979.809 420 977.117 420H976.6C973.908 420 971.725 422.183 971.725 424.875C971.725 427.567 973.908 429.75 976.6 429.75ZM974.814 424.875C974.814 423.794 975.691 422.917 976.772 422.917H976.944C978.026 422.917 978.903 423.794 978.903 424.875C978.903 425.957 978.026 426.833 976.944 426.833H976.772C975.691 426.833 974.814 425.957 974.814 424.875ZM978.979 436.265C979.331 436.577 979.425 436.93 979.425 437.115V440.542C979.425 440.727 979.331 441.08 978.979 441.392C978.633 441.699 977.996 442 976.858 442C975.72 442 975.082 441.699 974.736 441.392C974.385 441.08 974.292 440.727 974.292 440.542V437.115C974.292 436.93 974.385 436.577 974.736 436.265C975.082 435.958 975.72 435.656 976.858 435.656C977.996 435.657 978.633 435.958 978.979 436.265ZM988.113 436.749V442.5C988.113 442.776 988.337 443 988.613 443C988.889 443 989.113 442.776 989.113 442.5V435.156C989.113 434.938 988.971 434.744 988.763 434.679C988.554 434.614 988.328 434.692 988.203 434.871L985.547 438.688L982.891 434.871C982.766 434.692 982.539 434.614 982.331 434.679C982.123 434.744 981.98 434.938 981.98 435.156V442.5C981.98 442.776 982.204 443 982.48 443C982.757 443 982.98 442.776 982.98 442.5V436.749L985.137 439.849C985.23 439.983 985.383 440.063 985.547 440.063C985.71 440.063 985.864 439.983 985.957 439.849L988.113 436.749ZM970.36 436.234C970.647 436.538 970.736 436.9 970.736 437.115C970.736 437.391 970.96 437.615 971.236 437.615C971.512 437.614 971.736 437.391 971.736 437.115C971.736 436.676 971.57 436.059 971.09 435.548C970.597 435.023 969.817 434.656 968.681 434.656C966.379 434.657 965.351 436.146 965.131 436.989C965.125 437.009 965.121 437.03 965.118 437.051L965.114 437.115V440.542L965.125 440.724C965.174 441.164 965.398 441.699 965.896 442.14C966.469 442.649 967.365 443 968.681 443C970.009 443 970.818 442.598 971.273 442.011C971.711 441.447 971.736 440.816 971.736 440.542C971.736 440.266 971.512 440.042 971.236 440.042C970.96 440.042 970.736 440.266 970.736 440.542C970.736 440.758 970.71 441.106 970.483 441.399C970.274 441.669 969.805 442 968.681 442C967.543 442 966.906 441.699 966.56 441.392C966.251 441.119 966.142 440.814 966.119 440.618L966.114 440.542V437.188C966.271 436.697 966.96 435.657 968.681 435.656C969.589 435.656 970.087 435.942 970.36 436.234ZM979.644 442.14C980.211 441.636 980.425 441.01 980.425 440.542V437.115C980.425 436.647 980.211 436.021 979.644 435.517C979.07 435.008 978.174 434.657 976.858 434.656C975.543 434.656 974.647 435.008 974.073 435.517C973.505 436.021 973.292 436.647 973.292 437.115V440.542C973.292 441.01 973.505 441.636 974.073 442.14C974.647 442.649 975.543 443 976.858 443C978.174 443 979.07 442.649 979.644 442.14Z" fill="black"/>
 <g filter="url(#filter29_d_11_1182)">
-<g clip-path="url(#clip29_11_1182)">
+<g id="key30" clip-path="url(#clip29_11_1182)">
 <rect x="945.114" y="333" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="945.114" y="333" width="64" height="64" rx="4" fill="url(#paint149_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="945.114" y="333" width="64" height="64" rx="4" fill="url(#pattern51_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -430,7 +430,7 @@
 <rect x="945.364" y="333.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint153_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M980.114 359C978.457 359 977.114 360.343 977.114 362C977.114 362.624 977.305 363.204 977.632 363.685L970.271 370.637C970.07 370.826 970.061 371.143 970.251 371.344C970.441 371.544 970.757 371.553 970.958 371.363L978.323 364.407C978.823 364.78 979.443 365 980.114 365C981.771 365 983.114 363.657 983.114 362C983.114 360.343 981.771 359 980.114 359Z" fill="#861602"/>
 </g>
-<g clip-path="url(#clip30_11_1182)">
+<g id="key31" clip-path="url(#clip30_11_1182)">
 <rect x="351" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="351" y="465" width="64" height="64" rx="4" fill="url(#paint154_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="351" y="465" width="64" height="64" rx="4" fill="url(#pattern53_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -445,7 +445,7 @@
 <rect x="351.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint158_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M381.5 496.627V494.084H384V496.627H381.5Z" fill="black"/>
 <path d="M382.75 496.627V501.711M382.75 501.711V505M382.75 501.711C388.15 501.711 389.5 497.643 389.5 495.61C389.5 493.406 388.15 489 382.75 489C377.35 489 376 493.406 376 495.61C376 497.643 377.35 501.711 382.75 501.711ZM381.5 494.084V496.627H384V494.084H381.5Z" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip31_11_1182)">
+<g id="key32" clip-path="url(#clip31_11_1182)">
 <rect x="285" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="285" y="465" width="64" height="64" rx="4" fill="url(#paint159_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="285" y="465" width="64" height="64" rx="4" fill="url(#pattern55_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -459,7 +459,7 @@
 </g>
 <rect x="285.25" y="465.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint163_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M305.05 498.842C304.88 499.895 305.05 502 307.088 502C309.126 502 309.296 499.895 309.126 498.842V494.105C309.126 493.404 309.534 492 311.165 492C312.795 492 313.203 493.404 313.203 494.105V500.421C313.203 500.947 313.509 502 314.732 502C315.955 502 316.6 500.947 316.77 500.421V494.105C316.77 493.404 317.178 492 318.808 492C320.439 492 320.847 493.404 320.847 494.105V500.421C320.847 500.947 321.254 502 322.885 502C324.516 502 324.923 500.947 324.923 500.421V494.105C324.923 493.404 325.331 492 326.962 492C328.592 492 329 493.404 329 494.105V495.684" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip32_11_1182)">
+<g id="key33" clip-path="url(#clip32_11_1182)">
 <rect x="417" y="399" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="417" y="399" width="64" height="64" rx="4" fill="url(#paint164_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="417" y="399" width="64" height="64" rx="4" fill="url(#pattern57_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -473,7 +473,7 @@
 </g>
 <rect x="417.25" y="399.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint168_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M448.75 434.5H453.5C455 434.5 458 433.4 458 429C458 424.6 455 423.167 453.5 423H444C442.5 423.167 439.5 424.6 439.5 429C439.5 433.4 442.5 434.5 444 434.5H448.75ZM448.75 434.5V439" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
-<g clip-path="url(#clip33_11_1182)">
+<g id="key34" clip-path="url(#clip33_11_1182)">
 <rect x="483" y="399" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="483" y="399" width="64" height="64" rx="4" fill="url(#paint169_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="483" y="399" width="64" height="64" rx="4" fill="url(#pattern59_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -487,7 +487,7 @@
 </g>
 <rect x="483.25" y="399.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint173_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M513.533 423.821C513.608 423.627 513.793 423.5 514 423.5H516C516.207 423.5 516.392 423.627 516.467 423.821L518.783 429.844L520.567 427.423C520.369 427.168 520.25 426.848 520.25 426.5C520.25 425.672 520.922 425 521.75 425C522.578 425 523.25 425.672 523.25 426.5C523.25 427.328 522.578 428 521.75 428C521.634 428 521.521 427.987 521.412 427.962L519.209 430.952L521.467 436.821C521.489 436.878 521.5 436.939 521.5 437V439C521.5 439.276 521.276 439.5 521 439.5H509C508.724 439.5 508.5 439.276 508.5 439V437C508.5 436.939 508.511 436.878 508.533 436.821L513.533 423.821ZM515.657 424.5L518.079 430.799L514.097 436.203C513.934 436.426 513.981 436.739 514.203 436.903C514.426 437.066 514.739 437.019 514.903 436.797L518.505 431.907L520.5 437.093V438.5H509.5V437.093L514.343 424.5H515.657Z" fill="black"/>
-<g clip-path="url(#clip34_11_1182)">
+<g id="key35" clip-path="url(#clip34_11_1182)">
 <rect x="351" y="597" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="351" y="597" width="64" height="64" rx="4" fill="url(#paint174_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="351" y="597" width="64" height="64" rx="4" fill="url(#pattern61_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -502,7 +502,7 @@
 <rect x="351.25" y="597.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint178_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <path d="M378.5 635V623L389.5 628.739L378.5 635Z" fill="black"/>
 <path d="M378.5 635V623L389.5 628.739L378.5 635Z" stroke="black" stroke-linejoin="round"/>
-<g clip-path="url(#clip35_11_1182)">
+<g id="key36" clip-path="url(#clip35_11_1182)">
 <rect x="285" y="597" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="285" y="597" width="64" height="64" rx="4" fill="url(#paint179_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="285" y="597" width="64" height="64" rx="4" fill="url(#pattern63_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -516,7 +516,7 @@
 </g>
 <rect x="285.25" y="597.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint183_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 <rect x="311" y="623" width="12" height="12" rx="6" fill="#861602"/>
-<g clip-path="url(#clip36_11_1182)">
+<g id="key37" clip-path="url(#clip36_11_1182)">
 <rect x="417" y="663" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="417" y="663" width="64" height="64" rx="4" fill="url(#paint184_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="417" y="663" width="64" height="64" rx="4" fill="url(#pattern65_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -529,7 +529,7 @@
 </g>
 </g>
 <rect x="417.25" y="663.25" width="63.5" height="63.5" rx="3.75" stroke="url(#paint188_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
-<g clip-path="url(#clip37_11_1182)">
+<g id="key38" clip-path="url(#clip37_11_1182)">
 <rect x="483" y="465" width="64" height="64" rx="4" fill="#8D8583"/>
 <rect x="483" y="465" width="64" height="64" rx="4" fill="url(#paint189_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="483" y="465" width="64" height="64" rx="4" fill="url(#pattern67_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -997,7 +997,7 @@
 <rect x="299" y="419" width="6" height="6" rx="3" fill="url(#paint344_radial_11_1182)" fill-opacity="0.6"/>
 </g>
 <g filter="url(#filter40_d_11_1182)">
-<g clip-path="url(#clip38_11_1182)">
+<g id="key39" clip-path="url(#clip38_11_1182)">
 <rect x="813.114" y="333" width="130" height="130" rx="4" fill="#8D8583"/>
 <rect x="813.114" y="333" width="130" height="130" rx="4" fill="url(#paint345_radial_11_1182)" fill-opacity="0.4"/>
 <rect x="813.114" y="333" width="130" height="130" rx="4" fill="url(#pattern219_11_1182)" fill-opacity="0.2" style="mix-blend-mode:soft-light"/>
@@ -1023,7 +1023,7 @@
 <rect x="813.364" y="333.25" width="129.5" height="129.5" rx="3.75" stroke="url(#paint353_radial_11_1182)" stroke-opacity="0.4" stroke-width="0.5"/>
 </g>
 <g filter="url(#filter44_d_11_1182)">
-<g clip-path="url(#clip39_11_1182)">
+<g id="key40" clip-path="url(#clip39_11_1182)">
 <rect x="417" y="333" width="130" height="64" rx="4" fill="#7D7473"/>
 <rect x="417" y="333" width="130" height="64" rx="4" fill="url(#paint354_radial_11_1182)" fill-opacity="0.2"/>
 <rect x="417" y="333" width="130" height="64" fill="#8D8583"/>
