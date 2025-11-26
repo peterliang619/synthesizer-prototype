@@ -28,6 +28,10 @@
         .key-pressed {
             opacity: 0.6;
             filter: brightness(1.2);
+            transform: translateY(2px);
+        }
+        .key-interactive {
+            transition: transform 0.1s, opacity 0.1s, filter 0.1s;
         }
     </style>
 </head>
@@ -49,8 +53,9 @@
                         const key = document.getElementById(`key${i}`);
 
                         if (key) {
-                            // Make cursor pointer
+                            // Make cursor pointer and add transition class
                             key.style.cursor = 'pointer';
+                            key.classList.add('key-interactive');
 
                             // Mouse events
                             key.addEventListener('mousedown', () => {
